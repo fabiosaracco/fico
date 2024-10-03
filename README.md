@@ -15,7 +15,7 @@ pip install git+https://github.com/fabiosaracco/fico.git
 ## Contents (so far)
 
 * setup.py: the setup, easy as this.
-* fico.py: it contains all functions calculating the fitness and complexity and reordering matrices
+* /fico/fico.py: it contains all functions calculating the fitness and complexity and reordering matrices
 
 ## Licence
 
