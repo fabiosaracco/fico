@@ -5,7 +5,7 @@ with open("README.md", "r", encoding="utf-8") as fh:
 
 setuptools.setup(
     name='fico',
-    version='0.0.2',
+    version='0.0.3',
     author='fabiosaracco',
     description='Fitness and Complexity calculator.',
     long_description=long_description,

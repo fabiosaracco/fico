@@ -94,5 +94,7 @@ def bam_fico_or(bam, return_argsorts=False):
         else:
             return out
     else:
-        
-        return bamno, no0, no1
+        if return_argsorts:        
+            return bamno, no0, no1
+        else:
+            return bamno
